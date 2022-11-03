@@ -23,7 +23,7 @@ In this way, the network creates multiple versions of the same textual content w
 
 
 
-### result in 1 epoch 
-![image](https://user-images.githubusercontent.com/102145595/199649465-b5782658-f0cf-4a90-a5f6-17cc5a315710.png)
+## Result in 1 epoch 
+![image](https://user-images.githubusercontent.com/102145595/199649542-dd84e72c-c5ae-48df-b6f9-70b44caf00a8.png)
 
 ### will be updated...
