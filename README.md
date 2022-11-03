@@ -2,7 +2,7 @@
  AdverseBiNet-pytorch
 
 This is a reimplementation of AdverseBiNet with pytorch. 
-[github] (https://github.com/ankanbhunia/AdverseBiNet)
+[github] (https://github.com/ankanbhunia/AdverseBiNet)  --> tensorflow-v1 
 [paper] (https://arxiv.org/abs/1810.11120v1)
 
 
