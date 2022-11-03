@@ -12,4 +12,4 @@ In this paper, we propose a two-stage network that first learns to augment the d
 In this way, the network creates multiple versions of the same textual content with various noisy textures, enlarging the available document binarization datasets. At last, the newly generated images are passed through a Binarization network to get back the clean version.
 
 
-## will be updated...
+
